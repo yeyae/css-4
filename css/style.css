@@ -1,0 +1,38 @@
+/* 시계설정 */
+#clock{
+    color: rgb(255, 255, 255);
+    font-size: x-large;
+    font-weight: 300;
+    text-align: center;
+    text-decoration: overline;
+    line-height: 1500%;
+}
+/* 배경화면설정 */
+/* body{
+    /* background-image: url('../img/2.jpg'); */
+    /* background-size: cover;
+    min-height: 100vh;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center; }*/
+#backGround { 
+	margin:0 auto;
+	width:100%;
+	height:450px;
+	background-repeat:no-repeat;
+	background-position:0 0;
+	background-size:100% 100%;
+}
+/* 명언 설정 */
+#quote{
+    color: rgb(41, 30, 19);
+    opacity: 0.8;
+    font-weight: 500;
+    font-family: sans-serif;
+    text-align: center;
+}
+/*날씨 설정*/
+#weather{
+    color: rgb(231,133,173);
+}
